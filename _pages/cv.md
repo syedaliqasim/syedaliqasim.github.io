@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Lahore University of Management Sciences, 2016
+* Ph.D in Computer Science, Virginia Commonwealth University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant at SAFE Lab, Virginia Commonwealth University            Aug 2018-Present
+  * Working under Dr. Irfan Ahmad on various projects related to computer and industrial control systems security
+and forensics
+  * Developed a tool for reverse engineering of ICS protocols.
+  * Developed a tool for forensic analysis of network based attacks on Industrial control systems.
+  * Developing a virtual PLC framework for Threat Intelligence
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant at CyPhy Lab, University of New Orleans                  Aug 2017-Jul2018
+  * Studied the problem of designing scalable forensic tools for ICS.
+  * Designed and developed a virtual controler for forensic analysis of Allen-Bradley PLCs.
   
-Skills
+
+
+Skills and Technologies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, C++, MySQL, C
+* Tools Platforms: Hadoop, CUDA, Matlab, SQL, Autopsy, Rapid Minor, Weka
+
 
 Publications
 ======
