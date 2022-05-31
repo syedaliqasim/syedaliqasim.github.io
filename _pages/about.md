@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at Virginia Commonwealth University where I work on problems in the area of Cybersecurity and Digital Forensics at the [SAFE lab] (https://safe.lab.vcu.edu/) under the guaidance of [Dr. Irfan Ahmed] (http://www.people.vcu.edu/~iahmed3/). Recently, my research has been particularly focused on Industrial Control Systems and Critical Infrastructre Security where I work on discovering vulnerabilites in ICS devices, developing digital forencis tools for investigating network based attacks on ICS and creating frameworks for collecting ICS threat Intelligence. Before joining VCU, I completed my B.S with computer science majore from Lahore University of Management Sciences (LUMS). In my free time I like to play videogames, enhance my cooking skills and travel around the country. 
+I am a fourth year PhD student at Virginia Commonwealth University where I work on problems in the area of Cybersecurity and Digital Forensics at the [SAFE lab](https://safe.lab.vcu.edu/) under the guaidance of [Dr. Irfan Ahmed](http://www.people.vcu.edu/~iahmed3/). Recently, my research has been particularly focused on Industrial Control Systems and Critical Infrastructre Security where I work on discovering vulnerabilites in ICS devices, developing digital forencis tools for investigating network based attacks on ICS and creating frameworks for collecting ICS threat Intelligence. Before joining VCU, I completed my B.S with computer science majore from Lahore University of Management Sciences (LUMS). In my free time I like to play videogames, enhance my cooking skills and travel around the country. 
 
 Please email me for a detailed list of my research and other projects!
 
