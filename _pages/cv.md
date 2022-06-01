@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* <pre>Research Assistant at SAFE Lab, Virginia Commonwealth University               Aug 2018 - Present </pre>
+* <pre>Research Assistant at SAFE Lab, Virginia Commonwealth University      Aug 2018 - Present </pre>
   * Working under Dr. Irfan Ahmad on various projects related to computer and industrial control systems security
 and forensics
   * Developed a tool for reverse engineering of ICS protocols.
@@ -24,7 +24,7 @@ and forensics
   * Developing a virtual PLC framework for Threat Intelligence
 
 * 
-* <pre>Research Assistant at CyPhy Lab, University of New Orleans                     Aug 2017 - Jul2018  </pre>
+* <pre>Research Assistant at CyPhy Lab, University of New Orleans            Aug 2017 - Jul2018  </pre>
   * Studied the problem of designing scalable forensic tools for ICS.
   * Designed and developed a virtual controler for forensic analysis of Allen-Bradley PLCs.
 
