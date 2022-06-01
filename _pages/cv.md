@@ -44,7 +44,7 @@ Publications
 * **Syed Ali Qasim**, Adeen Ayub, Jordan A Johnson, Irfan Ahmed, “Attacking the IEC-61131 Logic Engine in
   Programmable Logic Controllers in Industrial Control Systems”, ICCIP ’21
 * **Syed Ali Qasim**, Jared Smith, Irfan Ahmed, “ Control Logic Forensics Framework using Built-in Decompiler
-  of Engineering Software in Industrial Control Systems”, DFRWS   USA 2020 <span style="color:red">some *(BEST STUDENT PAPER AWARD)* text</span>
+  of Engineering Software in Industrial Control Systems”, DFRWS   USA 2020 <span style="color:red">*(BEST STUDENT PAPER AWARD)*</span>
 * **Syed Ali Qasim**, Juan Lopez Jr, Irfan Ahmed, “Automated Reconstruction of Control Logic for Programmable
    Logic Controller Forensics”, ISC 19
 * **Syed Ali Qasim**, Harris Durani, Muhammad Naeem, Waleed Riaz, Suleman Shahid, “Supporting Pakistani Farmers
