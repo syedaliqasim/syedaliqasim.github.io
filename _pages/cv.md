@@ -41,12 +41,29 @@ Skills and Technologies
 
 Publications
 ======
+* **Syed Ali Qasim**, Adeen Ayub, Jordan A Johnson, Irfan Ahmed, “Attacking the IEC-61131 Logic Engine in
+  Programmable Logic Controllers in Industrial Control Systems”, ICCIP ’21
+* **Syed Ali Qasim**, Jared Smith, Irfan Ahmed, “ Control Logic Forensics Framework using Built-in Decompiler
+  of Engineering Software in Industrial Control Systems”, DFRWS   USA 2020 (BEST STUDENT PAPER AWARD)
+* **Syed Ali Qasim**, Juan Lopez Jr, Irfan Ahmed, “Automated Reconstruction of Control Logic for Programmable
+   Logic Controller Forensics”, ISC 19
+* **Syed Ali Qasim**, Harris Durani, Muhammad Naeem, Waleed Riaz, Suleman Shahid, “Supporting Pakistani Farmers
+  Through Digital Means: An Exploratory Study”, CHI EA ’16
+* Masrik Dahir, **Syed Ali Qasim**, Irfan Ahmed, “Cronus: An Automated Feedback Tool for Concept Maps”, IEEE Access’21
+
 
   
-Talks
+PEER-REVIEWED PRESENTATIONS, DEMOS, AND POSTERS
 ======
- 
-  
+* **Syed Ali Qasim**, Irfan Ahmed, “A Case Study of Virtual Programmable Logic Controllers (PLC) Forensic Framework
+  on Investigating Control Logic Attacks in a Belt Conveyor System”, In the 74th Annual Meeting of the American
+  Academy of Forensic Sciences, February 2022, Seattle,
+  Washington. (Extended Abstract)
+* **Syed Ali Qasim**, Irfan Ahmed, “Virtual PLC-assisted Forensic Analysis of
+  Control Logic Injection Attacks”, In the 1st International Workshop on Critical Infrastructure and
+  Manufacturing System Security (CIMSS) in conjunction with the 19th International Conference on
+  Applied Cryptography and Network Security, Kamakura, Japan, June 2021. (Demo)
+
 
   
 Service and leadership
