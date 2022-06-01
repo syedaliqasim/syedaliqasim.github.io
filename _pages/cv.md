@@ -23,7 +23,7 @@ and forensics
   * Developed a tool for forensic analysis of network based attacks on Industrial control systems.
   * Developing a virtual PLC framework for Threat Intelligence
 
-* 
+<br /> 
 * <pre>Research Assistant at CyPhy Lab, University of New Orleans            Aug 2017 - Jul2018  </pre>
   * Studied the problem of designing scalable forensic tools for ICS.
   * Designed and developed a virtual controler for forensic analysis of Allen-Bradley PLCs.
