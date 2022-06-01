@@ -5,12 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+PEER-REVIEWED JOURNALS AND CONFERENCES
+======
+* **Syed Ali Qasim**, Adeen Ayub, Jordan A Johnson, Irfan Ahmed, “Attacking the IEC-61131 Logic Engine in
+  Programmable Logic Controllers in Industrial Control Systems”, ICCIP ’21 [PDF](http://www.people.vcu.edu/~iahmed3/publications/2021-ifip-iccip.pdf)
+* **Syed Ali Qasim**, Jared Smith, Irfan Ahmed, “ Control Logic Forensics Framework using Built-in Decompiler
+  of Engineering Software in Industrial Control Systems”, DFRWS   USA 2020 <span style="color:red">*(BEST STUDENT PAPER AWARD)*</span> [PDF](http://www.people.vcu.edu/~iahmed3/publications/2020_dfrws_us.pdf)
+* **Syed Ali Qasim**, Juan Lopez Jr, Irfan Ahmed, “Automated Reconstruction of Control Logic for Programmable
+   Logic Controller Forensics”, ISC 19 [PDF](http://www.people.vcu.edu/~iahmed3/publications/2019_Similo_ISC.pdf)
+* **Syed Ali Qasim**, Harris Durani, Muhammad Naeem, Waleed Riaz, Suleman Shahid, “Supporting Pakistani Farmers
+  Through Digital Means: An Exploratory Study”, CHI EA ’16 [PDF](https://www.researchgate.net/profile/Waleed-Riaz/publication/302074281_Supporting_Pakistani_Farmers_Through_Digital_Means_An_Exploratory_Study/links/5ff2ba2892851c13fee778cc/Supporting-Pakistani-Farmers-Through-Digital-Means-An-Exploratory-Study.pdf)
+* Masrik Dahir, **Syed Ali Qasim**, Irfan Ahmed, “Cronus: An Automated Feedback Tool for Concept Maps”, IEEE Access’21 [PDF](http://www.people.vcu.edu/~iahmed3/publications/2021b-ieee-access.pdf)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  
+PEER-REVIEWED PRESENTATIONS, DEMOS, AND POSTERS
+======
+* **Syed Ali Qasim**, Irfan Ahmed, “A Case Study of Virtual Programmable Logic Controllers (PLC) Forensic Framework
+  on Investigating Control Logic Attacks in a Belt Conveyor System”, In the 74th Annual Meeting of the American
+  Academy of Forensic Sciences, February 2022, Seattle,
+  Washington. (Extended Abstract)
+* **Syed Ali Qasim**, Irfan Ahmed, “Virtual PLC-assisted Forensic Analysis of
+  Control Logic Injection Attacks”, In the 1st International Workshop on Critical Infrastructure and
+  Manufacturing System Security (CIMSS) in conjunction with the 19th International Conference on
+  Applied Cryptography and Network Security, Kamakura, Japan, June 2021. (Demo)
