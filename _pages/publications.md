@@ -9,11 +9,9 @@ PEER-REVIEWED JOURNALS AND CONFERENCES
 ======
 * **Syed Ali Qasim**, Wooyeon Jo, Irfan Ahmed, “PREE: Heuristic Builder for Reverse
 Engineering of Network Protocols in Industrial Control Systems”, In 23rd Annual Digital Forensics
-Research Conference (DFRWS US’23), July 2023, Baltimore, MD [PDF]([http://www.people.vcu.edu/~iahmed3/publications/2023-ieee-sp.pdf](https://dfrws.org/presentation/pree-heuristic-builder-for-reverse-engineering-of-network-protocols-in-industrial-control-systems/))
-
+Research Conference (DFRWS US’23), July 2023, Baltimore, MD <span style="color:red">*(BEST STUDENT PAPER AWARD)*</span> [PDF]([http://www.people.vcu.edu/~iahmed3/publications/2023-ieee-sp.pdf](https://dfrws.org/presentation/pree-heuristic-builder-for-reverse-engineering-of-network-protocols-in-industrial-control-systems/))
 * Adeen Ayub, Wooyeon Jo, **Syed Ali Qasim**, Irfan Ahmed, "How Are Industrial Control Systems Insecure by Design? A Deeper Insight Into Real-World Programmable Logic Controllers",  In IEEE Security &
 Privacy, 2023 [PDF](http://www.people.vcu.edu/~iahmed3/publications/2023-ieee-sp.pdf)
-
 * **Syed Ali Qasim**, Adeen Ayub, Jordan A Johnson, Irfan Ahmed, “Attacking the IEC-61131 Logic Engine in
   Programmable Logic Controllers in Industrial Control Systems”, In the 15th IFIP
   International Conference on Critical Infrastructure Protection (ICCIP), March 2021, Arlington,
