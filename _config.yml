@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syed Ali Qasim"
 title_separator          : "-"
 name                     : &name "Syed Ali Qasim"
-description              : &description "Assistant Professor Information Sciences and Technologies, GVSU"
+description              : &description "Assistant Professor of Computer Science, Grand Valley State University"
 url                      : https://syedaliqasim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "syedaliqasim.github.io"
@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Syed Ali Qasim"
   avatar           : "profile3.jpg"
-  bio              : "Assistant Professor Information Sciences and Technologies, GVSU"
+  bio              : "Assistant Professor of Computer Science, Grand Valley State University"
   email            : "qasims@gvsu.edu"
   location         : "Grand Rapids, MI"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RSZ34k0AAAAJ&hl=en"
-  email            :
   researchgate     :  "https://www.researchgate.net/profile/Syed-Ali-Qasim"
   uri              :
   bitbucket        :

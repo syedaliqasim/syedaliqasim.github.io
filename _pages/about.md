@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor of Computer Science at Grand Valley State University, where I direct the FORCE lab (Forensics and Offensive Research in Cyber-physical Environments). My research focuses on Industrial Control Systems and Critical Infrastructure Security, including discovering vulnerabilities in ICS devices, developing digital forensics tools for investigating network-based attacks on ICS, and building frameworks for ICS threat intelligence. I completed my Ph.D. in Computer Science at Virginia Commonwealth University in 2023, where I worked at the [SAFE lab](https://safe.lab.vcu.edu/) under the guidance of [Dr. Irfan Ahmed](http://www.people.vcu.edu/~iahmed3/). Before that, I completed my B.S. in Computer Science at Lahore University of Management Sciences (LUMS) in 2016. In my free time, I like to watch soccer, play pickleball, and work on my cooking skills.
+I am an Assistant Professor of Computer Science at Grand Valley State University, where I direct the FORCE lab (Forensics and Offensive Research in Cyber-physical Environments). My research sits at the intersection of cybersecurity, cyber-physical systems, and AI, and is now extending into the security of connected medical devices. I build tools that investigate and defend programmable logic controllers (PLCs) and other embedded devices that run physical processes in power, water, manufacturing, and healthcare — recovering attacker actions from network traffic, reverse engineering undocumented protocols, and discovering vulnerabilities through AI-driven fuzzing. I completed my Ph.D. in Computer Science at Virginia Commonwealth University in 2023, where I worked at the [SAFE lab](https://safe.lab.vcu.edu/) under the guidance of [Dr. Irfan Ahmed](http://www.people.vcu.edu/~iahmed3/). Before that, I completed my B.S. in Computer Science at Lahore University of Management Sciences (LUMS) in 2016. In my free time, I like to watch soccer, play pickleball, and work on my cooking skills.
 
 If you're a student interested in doing research or a capstone project with me, feel free to reach out by email as well.
 
@@ -16,7 +16,8 @@ Research Interests
 ======
 * Cybersecurity
 * Digital Forensics
-* Internet of Things
+* Industrial Control Systems
+* Industrial Internet of Things
 * Threat Intelligence
 
 Recent News

@@ -7,6 +7,8 @@ author_profile: true
 
 PEER-REVIEWED JOURNALS AND CONFERENCES
 ======
+* **Syed Ali Qasim**, Muhammad Taqi Raza, Irfan Ahmed, “PLCpot: Application Dialogue Replay based Scalable PLC Honeypot for Industrial Control Systems”, In the 16th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), May 2025, Irvine, California, USA. (Acceptance rate 27%)
+* **Syed Ali Qasim**, Muhammad Taqi Raza, Irfan Ahmed, “vPLC: A scalable PLC testbed for IIoT security research”, In the 9th Annual Industrial Control System Security (ICSS) Workshop, December 2023, Austin, Texas, USA.
 * **Syed Ali Qasim**, Wooyeon Jo, Irfan Ahmed, “PREE: Heuristic Builder for Reverse
 Engineering of Network Protocols in Industrial Control Systems”, In 23rd Annual Digital Forensics
 Research Conference (DFRWS US’23), July 2023, Baltimore, MD. <span style="color:red">*(BEST STUDENT PAPER AWARD)*</span> [PDF]([http://www.people.vcu.edu/~iahmed3/publications/2023-ieee-sp.pdf](https://dfrws.org/presentation/pree-heuristic-builder-for-reverse-engineering-of-network-protocols-in-industrial-control-systems/))
@@ -29,6 +31,9 @@ Privacy, 2023 [PDF](http://www.people.vcu.edu/~iahmed3/publications/2023-ieee-sp
   
 PEER-REVIEWED PRESENTATIONS, DEMOS, AND POSTERS
 ======
+* **Syed Ali Qasim**, Jared Smith, Irfan Ahmed, “Control Logic Forensics Framework using Built-in Decompiler of Engineering Software in Industrial Control Systems”, In the 10th Annual HotSoS Symposium, hosted virtually by the NSA, April 2023. (Presentation)
+* **Syed Ali Qasim**, Irfan Ahmed, “Industrial Control Systems Threat Intelligence Using Virtual PLC Platform”, In the Commonwealth Cyber Initiative (CCI) Symposium 2023, Richmond, Virginia, April 2023. (Poster)
+* **Syed Ali Qasim**, Adeen Ayub, Muhammad Haris Rais, Irfan Ahmed, “Digital Forensic Tools and Techniques for Investigating Control Logic Attacks in Industrial Control Systems”, In The Criminal Investigations and Network Analysis (CINA) Annual Meeting, George Mason University, October 2022. (Poster)
 * **Syed Ali Qasim**, Irfan Ahmed, “A Case Study of Virtual Programmable Logic Controllers (PLC) Forensic Framework
   on Investigating Control Logic Attacks in a Belt Conveyor System”, In the 74th Annual Meeting of the American
   Academy of Forensic Sciences, February 2022, Seattle,
